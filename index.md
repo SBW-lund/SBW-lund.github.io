@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Swedish Bioinformatics Workship 2021
 
 You can use the [editor on GitHub](https://github.com/SBW-lund/SBW-lund.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

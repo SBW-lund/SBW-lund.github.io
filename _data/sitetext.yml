@@ -1,9 +1,13 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: 00th - 00th October 2021
+    text: Swedish Bioinformatics Workshop 2021
+    text: Lund University
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
-
+    button: Register Now!
+    buttonlink: "www.google.com" # "#{section}" or "URL/page link"
+    
+    
 program:
     title: "Program"
     text: "Da programm ipsum"

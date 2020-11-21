@@ -32,7 +32,6 @@ keynote:
     text: "We are honored to have the following people speak at SBW2021"
     subtext: 
     section: keynote
-    closebutton: Close Description
     people:
       - name: "Molly Hammell"
         role: "Cold Spring Harbor Laboratory"

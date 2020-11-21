@@ -1,11 +1,12 @@
 header:
     title: 00th - 00th October 2021
     text: Swedish Bioinformatics Workshop 2021
-    text: Lund University
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
-    button: Register Now!
-    buttonlink: "www.google.com" # "#{section}" or "URL/page link"
+    buttonlink: "#intro" # "#{section}" or "URL/page link"
+    button2: Register Now!
+    buttonlink2: "www.google.com" # "#{section}" or "URL/page link"
+    logo: SBW2021
+      path: assets\img\SBW2021_logo_transparent_large.png
     
     
 program:

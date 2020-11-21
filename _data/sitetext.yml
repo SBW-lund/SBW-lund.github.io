@@ -6,26 +6,88 @@ header:
     button2: Register Now!
     buttonlink2: "www.google.com" # "#{section}" or "URL/page link"
     
-
-intro:
-    title: "Introduction"
-    text: "Introduction to the workshop!"
-    section: intro
+about:
+    title: "About SBW 2021"
+    text: "The SBW is an annual two-day .... more ,, more text, ,,."
+    section: about
 
 program:
     title: "Program"
-    text: "Da programm ipsum"
+    text: "Information about the program ... TBD"
     section: program
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+    day1: Monday, 00th, October 2021
+    day1list:
+      - time: "09:00 - 10:00"
+        item: "Registration and Welcome"
+        desc: "Coffee is available during the registration!"
+      - time: "10:00 - 10:05"
+        item: "Keynote Speaker"
+        desc: "Keynote Speaker"
+      - time: "10:05 - 11:00"
+        item: "Invited Speaker"
+        desc: "Invited Speaker"
+      - time: "11:00 - 11:30"
+        item: "Invited Speaker"
+        desc: "Invited Speaker"
+      - time: "11:30 - 12:00"
+        item: "Invited Speaker"
+        desc: "Invited Speaker"
+      - time: "12:00 - 13:30"
+        item: "Lunch"
+        desc: "LUNCH"
+      - time: "13:30 - 14:30"
+        item: "Keynote Speaker"
+        desc: "Keynote Speaker"
+      - time: "14:30 - 15:00"
+        item: "Invited Speaker"
+        desc: "Invited Speaker"
+      - time: "15:00 - 16:00"
+        item: "Coffee Break + Poster Session 1"
+        desc: ""
+      - time: "16:00 - 16:30"
+        item: "Invited Speaker"
+        desc: "Invited Speaker"
+      - time: "16:30 - 17:00"
+        item: "Invited Speaker"
+        desc: "Invited Speaker"
+      - time: "18:00"
+        item: "Dinner"
+        desc: ""
+    day2: Tuesday, 00th, October 2021
+    day2list:
+      - time: "09:00 - 10:00"
+        item: "Keynote Speaker"
+        desc: "Keynote Speaker"
+      - time: "10:00 - 10:30"
+        item: "Invited Speaker"
+        desc: "Invited Speaker"
+      - time: "10:30 - 11:00"
+        item: "Coffee Break"
+        desc: "coffee"
+      - time: "11:00 - 11:30"
+        item: ""
+        desc: ""
+      - time: "11:30 - 12:00"
+        item: ""
+        desc: ""
+      - time: "12:00 - 13:30"
+        item: "Lunch"
+        desc: ""
+      - time: "13:30 - 14:00"
+        item: "Sponsor"
+        desc: "sponsor-talk"
+      - time: "14:30 - 15:00"
+        item: "Sponsor2"
+        desc: "sponsor2-talk"
+      - time: "15:00 - 15:30"
+        item: "Coffee Break"
+        desc: ""
+      - time: "15:30 - 16:30"
+        item: "RSG Career Pannel"
+        desc: ""
+      - time: "16:30"
+        item: "Closing remark"
+        desc: ""
 
 keynote:
     title: "Keynote Speakers"
@@ -67,61 +129,29 @@ keynote:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    events:
-      - title: "The organizing Committee"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
-        align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-        align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-clients:
-    section: clients
+sponsors:
+    section: sponsors
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+      - title: "SciLife Labs"
+        url: https://sbw-lund.github.io
+        logo: assets/img/sponsors/envato.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        url: https://sbw-lund.github.io
+        logo: assets/img/sponsors/designmodo.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        url: https://sbw-lund.github.io
+        logo: assets/img/sponsors/themeforest.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        url: https://sbw-lund.github.io
+        logo: assets/img/sponsors/creative-market.jpg
 
-             
+location:
+    section: location
+    title: "Venue"
+    text: "The SBW 2021 will be held at XXX"
+               
 
 team:
     title: "The Organizing Committee"
@@ -129,8 +159,8 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Example organizer1"
+        role: "The one who knows everything"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -139,8 +169,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Example organizer2"
+        role: "The responsive one"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -149,9 +179,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
+      - name: "Example organizer2"
+        role: "The responsive one"
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -159,10 +189,10 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          
+
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "If you need any further information please do not hesitate to contact us!"
     section: contact
     
 footer:

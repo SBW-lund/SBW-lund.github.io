@@ -118,7 +118,7 @@ keynote:
         social:
           - url: https://twitter.com/mikkelschierup
             icon: fab fa-twitter
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/mikkel-heide-schierup-09aa3a6b
             icon: fab fa-linkedin-in
       - name: "Oliver Stegle"
         role: "German Cancer Research Center"
@@ -126,7 +126,7 @@ keynote:
         social:
           - url: https://twitter.com/statgenomics
             icon: fab fa-twitter
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/oliver-stegle-4b128818
             icon: fab fa-linkedin-in
 
 sponsors:
@@ -134,18 +134,22 @@ sponsors:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "SciLife Labs"
-        url: https://sbw-lund.github.io
-        logo: assets/img/sponsors/envato.jpg
-      - title: "designmodo"
-        url: https://sbw-lund.github.io
-        logo: assets/img/sponsors/designmodo.jpg
-      - title: "themeforest"
-        url: https://sbw-lund.github.io
-        logo: assets/img/sponsors/themeforest.jpg
-      - title: "Creative Market"
-        url: https://sbw-lund.github.io
-        logo: assets/img/sponsors/creative-market.jpg
+      - title: "NBIS"
+        url: https://nbis.se
+        logo: assets/img/sponsors/nbis.svg
+      - title: "GENECO"
+        url: https://www.biology.lu.se/education/phd-studies/geneco-graduate-research-school-genomic-ecology/about-geneco
+        logo: assets/img/sponsors/lu.png
+      - title: "AI Lund"
+        url: http://ai.lu.se/
+        logo: assets/img/sponsors/lu.png
+      - title: "SAGA Diagnostics"
+        url: https://sagadiagnostics.com/
+        logo: assets/img/sponsors/saga.png
+      - title: "COMPUTE"
+        url: http://cbbp.thep.lu.se/compute/index.php
+        logo: assets/img/sponsors/compute.png
+
 
 location:
     section: location
@@ -182,6 +186,26 @@ team:
       - name: "Example organizer2"
         role: "The responsive one"
         image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Example organizer1"
+        role: "The one who knows everything"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Example organizer1"
+        role: "The one who knows everything"
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter

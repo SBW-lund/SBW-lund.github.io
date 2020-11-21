@@ -1,15 +1,18 @@
 nav:
-  - title: "Program"
-    section: program
+  - title: "About"
+    section: about
 
   - title: "Keynote"
     section: keynote
     
-  - title: "About"
-    section: timeline
+  - title: "Program"
+    section: program
 
   - title: "Organizing Comittee"
     section: team
+
+  - title: "Sponsors"
+    section: sponsors
 
   - title: "Contact"
     section: contact

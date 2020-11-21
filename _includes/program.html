@@ -7,17 +7,19 @@
         <h3 class="section-subheading text-muted">{{ site.data.sitetext.program.text | markdownify }}</h3>
       </div>
     </div>
-    <div class="row">
+  <div class="row">
 	<h3 class="section-subheading text-muted">{{ site.data.sitetext.program.day1 }}</h3>
   <ul>
   {% for i in site.data.sitetext.program.day1list %}
-  <li> {{ i.time }}  <b>{{ i.item }}</b> <br> <h4 class="text-muted">{{ i.desc }}</h4></li>  
+  <li> {{ i.time }}  <b>{{ i.item }}</b> <p class="text-muted">{{ i.desc }}</p> </li>  
 	{% endfor %}
   </ul>
+  </div>
+  <div class="row"></div>
   <h3 class="section-subheading text-muted">{{ site.data.sitetext.program.day2 }}</h3>
   <ul>
   {% for i in site.data.sitetext.program.day2list %}
-  <li> {{ i.time }}  <b>{{ i.item }}</b> <br> <h4 class="text-muted">{{ i.desc }}</h4></li>  
+  <li> {{ i.time }}  <b>{{ i.item }}</b> <p class="text-muted">{{ i.desc }}</p> </li>  
 	{% endfor %}
   </ul>  
     </div>

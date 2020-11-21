@@ -6,7 +6,7 @@ header:
     button2: Register Now!
     buttonlink2: "www.google.com" # "#{section}" or "URL/page link"
     logo: SBW2021
-      path: assets\img\SBW2021_logo_transparent_large.png
+    path: "assets\img\SBW2021_logo_transparent_large.png"
     
     
 program:

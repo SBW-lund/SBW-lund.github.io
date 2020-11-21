@@ -26,17 +26,15 @@ program:
 keynote:
     title: "Keynote Speakers"
     text: "We are honored to have the following people speak at SBW2021"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: keynote
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Keynote 1"
+        role: "Professs"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Larry Parker"

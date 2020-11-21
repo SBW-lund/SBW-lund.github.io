@@ -32,39 +32,6 @@ keynote:
     text: "We are honored to have the following people speak at SBW2021"
     subtext: 
     section: keynote
-    people:
-      - name: "Molly Hammell"
-        role: "Cold Spring Harbor Laboratory"
-        image: assets/img/keynote/hammell.jpg
-        social:
-          - url: https://twitter.com/mollyhammell
-            icon: fab fa-twitter
-          - url: https://linkedin.com/in/molly-gale-hammell-64730135
-            icon: fab fa-linkedin-in
-      - name: "Fabian Theis"
-        role: "Helmholtz Zentrum München"
-        image: assets/img/keynote/theis.jpg
-        social:
-          - url: https://twitter.com/fabian_theis
-            icon: fab fa-twitter
-          - url: https://linkedin.com/in/fabian-theis-4b4b10173
-            icon: fab fa-linkedin-in
-      - name: "Mikkel Schierup"
-        role: "Aarhus University"
-        image: assets/img/keynote/schierup.png
-        social:
-          - url: https://twitter.com/mikkelschierup
-            icon: fab fa-twitter
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Oliver Stegle"
-        role: "German Cancer Research Center"
-        image: assets/img/keynote/stegle.jpg
-        social:
-          - url: https://twitter.com/statgenomics
-            icon: fab fa-twitter
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
     
 
 timeline:

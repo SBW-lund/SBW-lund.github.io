@@ -1,7 +1,7 @@
 ---
 name: "Suze Roostee"
 role: "PhD student"
-image: "assets/img/members/user.jpg"
+image: "assets/img/team/suze.jpg"
 social:
   - url: https://orcid.org/0000-0003-3908-7417
     #fill in ORCID URL. Leave blank if you do not have ORCID.

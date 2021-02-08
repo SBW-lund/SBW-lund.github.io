@@ -1,7 +1,7 @@
 ---
 name: "FirstName LastName"
 role: "SomeRole: group leader, phd student, ...etc"
-image: "assets/img/members/user.jpg"
+image: "assets/img/team/user.jpg"
 social:
   - url: 
     #fill in ORCID URL. Leave blank if you do not have ORCID.

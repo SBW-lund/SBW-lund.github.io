@@ -5,22 +5,22 @@ header:
     buttonlink: "#about" # "#{section}" or "URL/page link"
     button2: Registration will open soon!
     buttonlink2: "#about" # "#{section}" or "URL/page link"
-    
+
 about:
     title: "About SBW 2021"
-    text: 
+    text:
     section: about
 
 program:
     title: "Program"
     text: "Program will be published soon"
     section: program
-    
+
 
 keynote:
     title: "Keynote Speakers"
-    text: "We are honored to have the following people speak at SBW2021"
-    subtext: 
+    text: "We are honored to have the following people speak at SBW2021:"
+    subtext:
     section: keynote
     speakers:
       - name: "Molly Hammell"
@@ -83,24 +83,24 @@ location:
     section: location
     title: "Venue"
     text: "The SBW 2021 will be held at XXX"
-               
+
 
 team:
     title: "The Organizing Committee"
-    text: "Our team consists of a mix of bioinformaticians, PhD Students, and researchers of various disciplines"
+    text: "Our team consists of a mix of bioinformaticians, PhD students, and researchers of various disciplines"
     subtext: ""
     section: team
 
 contact:
     title: "Contact Us"
-    text: "If you need any further information please do not hesitate to contact us!"
+    text: "If you need any further information, do not hesitate to contact us at SBW2021@med.lu.se"
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
-        icon: "fab fa-twitter"  
+        icon: "fab fa-twitter"
       #- url: https://facebook.com
       #  icon: "fab fa-facebook-f"
       - url: https://linkedin.com

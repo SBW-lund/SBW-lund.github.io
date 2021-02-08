@@ -1,6 +1,6 @@
 ---
 name: "Hani N. Alsafadi"
-role: "PhD Student"
+role: "PhD student"
 image: "assets/img/team/alsafadi.png"
 social:
   - url:

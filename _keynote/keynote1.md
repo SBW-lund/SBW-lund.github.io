@@ -1,8 +1,8 @@
 ---
 title: Molly Hammell
-subtitle: Information about the speech will be posted soon
+subtitle: Information about the lecture will be posted soon
 ---
-<!-- 
+<!--
 This Space here will be used to explain what the keynote talk will be about.
 
 {:.list-inline}

@@ -3,7 +3,7 @@ header:
     text: Swedish Bioinformatics Workshop 2021
     button: Tell Me More
     buttonlink: "#about" # "#{section}" or "URL/page link"
-    button2: Registeration will open soon!
+    button2: Registration will open soon!
     buttonlink2: "#about" # "#{section}" or "URL/page link"
     
 about:

@@ -1,6 +1,6 @@
 ---
 name: "Deborah Oliveira"
-role: "PhD candidate"
+role: "PhD student"
 image: "assets/img/team/Deborah.jpg"
 social:
   - url:

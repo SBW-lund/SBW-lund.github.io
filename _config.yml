@@ -29,6 +29,7 @@ analytics:
 collections:
   portfolio:
   keynote:
+  team:
 
 markdown: kramdown
 

@@ -1,0 +1,20 @@
+---
+name: "Deborah Oliveira"
+role: "PhD candidate"
+image: "assets/img/team/Deborah.jpg"
+social:
+  - url:
+    #fill in ORCID URL. Leave blank if you do not have ORCID.
+    icon: ai ai-orcid
+  - url:
+    #fill in twitter URL. Leave blank if you do not have twitter.
+    icon: fab fa-twitter
+  - url: "www.linkedin.com/in/deborah-f-nacer-de-oliveira"
+    #fill in linkedin URL. Leave blank if you do not have linkedin.
+    icon: fab fa-linkedin-in
+  - url:
+    #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
+    icon: fas fa-user-circle
+---
+
+Deborah is a PhD student using bioinformatics to know more about lung and breast cancer. She is part of the Staaf lab in the department of Clinical Sciences of Lund University.

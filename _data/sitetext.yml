@@ -1,14 +1,14 @@
 header:
-    title: 00th - 00th October 2021
+    title: 13th - 14th October 2021
     text: Swedish Bioinformatics Workshop 2021
     button: Tell Me More
     buttonlink: "#about" # "#{section}" or "URL/page link"
-    button2: Register Now!
-    buttonlink2: "www.google.com" # "#{section}" or "URL/page link"
+    button2: Registeration will open soon!
+    buttonlink2: "#about" # "#{section}" or "URL/page link"
     
 about:
     title: "About SBW 2021"
-    text: "SBW is an annual event that has been organized by different universities in Sweden since 2000. This year it will take place in Lund (MatteAnnexet) and is arranged by Lund University. The target group is traditionally PhD students and postdocs working with any kind of bioinformatics, computational biology, etc. The workshop aims to bring together talented students and young researchers across faculties and universities nationally. If you would like to attend SBW2021, please register here (link not available yet). If you have any questions, please contact us."
+    text: 
     section: about
 
 program:
@@ -87,80 +87,9 @@ location:
 
 team:
     title: "The Organizing Committee"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Our team consists of a mix of bioinformaticians, PhD Students, and researchers of various disciplines"
+    subtext: ""
     section: team
-    people:
-      - name: "Example organizer1"
-        role: "The one who knows everything"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Example organizer2"
-        role: "The responsive one"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Example organizer2"
-        role: "The responsive one"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Example organizer1"
-        role: "The one who knows everything"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Example organizer1"
-        role: "The one who knows everything"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Example organizer1"
-        role: "The one who knows everything"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Example organizer1"
-        role: "The one who knows everything"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
 contact:
     title: "Contact Us"
@@ -176,7 +105,7 @@ footer:
       #  icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/sbw-lund
+      #- url: https://github.com/sbw-lund
       #- url: https://instagram.com
       #  icon: "fab fa-instagram"
 

@@ -6,7 +6,7 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-	
+
 	gtag('config', '{{ site.analytics.google }}');
   </script>
   <!-- End Google Analytics -->
@@ -33,7 +33,7 @@
   <!-- Custom styles for this theme -->
   <!--<link href="assets/css/agency.min.css" rel="stylesheet">-->
   <link href="assets/css/agency.css" rel="stylesheet">
-  
+
   <!-- Page container change top padding when nav shrinks -->
   {% if page.layout == "page" %}
   <style>
@@ -43,5 +43,8 @@
 	}
   </style>
   {% endif %}
-  
+
+  <!-- Favicon head tag -->
+  <link rel="shortcut icon" href="assets/img/sbw2021_favicon.ico" type="image/x-icon">
+
 </head>

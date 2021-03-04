@@ -3,9 +3,9 @@ name: "Lokeshwaran Manoharan"
 role: "Bioinformatics expert (NBIS)"
 image: "assets/img/team/lokesh_mano.jpg"
 social:
-  - url: https://orcid.org/0000-0001-9751-5745
+  #- url: https://orcid.org/0000-0001-9751-5745
     #fill in ORCID URL. Leave blank if you do not have ORCID.
-    icon: ai ai-orcid
+   # icon: ai ai-orcid
   - url: https://twitter.com/LokeshBio
     #fill in twitter URL. Leave blank if you do not have twitter.
     icon: fab fa-twitter

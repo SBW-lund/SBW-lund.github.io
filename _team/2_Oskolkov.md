@@ -3,8 +3,8 @@ name: "Nikolay Oskolkov"
 role: "Bioinformatician at NBIS / SciifeLab"
 image: "assets/img/team/oskolkov.jpg"
 social:
-  - url: https://orcid.org/0000-0001-5326-8893
-    icon: ai ai-orcid
+  #- url: https://orcid.org/0000-0001-5326-8893
+  #  icon: ai ai-orcid
   - url: https://twitter.com/NikolayOskolkov
     icon: fab fa-twitter
   - url: https://www.linkedin.com/in/nikolay-oskolkov-abb321186/

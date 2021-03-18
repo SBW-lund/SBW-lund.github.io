@@ -1,32 +1,13 @@
-<!-- program Grid -->
-<section class="bg-light page-section" id="{{ site.data.sitetext.program.section | default: "program" }}">
+<section class="page-section" id="{{ site.data.sitetext.program.section | default: 'program' }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.program.title | markdownify | default: "program" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext.program.text | markdownify }}</h3>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.program.title | default: "Program" }}</h2>
+        <div style="margin-left: auto; margin-right: auto;">
+        {% capture my_include %}{% include program.md %}{% endcapture %}
+        {{ my_include | markdownify }}
       </div>
-    </div>
-  <div class="row">
-	<h3 class="section-subheading text-muted">{{ site.data.sitetext.program.day1 }}</h3>
-  </div>
-  <div class="row">
-  <ul>  
-  {% for i in site.data.sitetext.program.day1list %}
-  <li> {{ i.time }}  <b>{{ i.item }}</b> <p class="text-muted">{{ i.desc }}</p> </li>  
-	{% endfor %}
-  </ul>
-  </div>
-  <div class="row"></div>
-  <h3 class="section-subheading text-muted">{{ site.data.sitetext.program.day2 }}</h3>
-  </div>
-  <div class="row">
-  <ul>
-  {% for i in site.data.sitetext.program.day2list %}
-  <li> {{ i.time }}  <b>{{ i.item }}</b> <p class="text-muted">{{ i.desc }}</p> </li>  
-	{% endfor %}
-  </ul>  
+      </div>
     </div>
   </div>
 </section>
-{% include modals.html %}

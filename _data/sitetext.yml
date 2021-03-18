@@ -23,6 +23,12 @@ keynote:
     subtext:
     section: keynote
 
+speakers:
+    title: "Speakers"
+    text: 
+    subtext: 
+    section: speakers
+
 sponsors:
     section: sponsors
     max-height: 50px

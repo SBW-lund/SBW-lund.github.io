@@ -1,74 +1,16 @@
-
-day1: Monday, 00th, October 2021
-    day1list:
-      - time: "09:00 - 10:00"
-        item: "Registration and Welcome"
-        desc: "Coffee is available during the registration!"
-      - time: "10:00 - 10:05"
-        item: "Keynote Speaker"
-        desc: "Keynote Speaker"
-      - time: "10:05 - 11:00"
-        item: "Invited Speaker"
-        desc: "Invited Speaker"
-      - time: "11:00 - 11:30"
-        item: "Invited Speaker"
-        desc: "Invited Speaker"
-      - time: "11:30 - 12:00"
-        item: "Invited Speaker"
-        desc: "Invited Speaker"
-      - time: "12:00 - 13:30"
-        item: "Lunch"
-        desc: "LUNCH"
-      - time: "13:30 - 14:30"
-        item: "Keynote Speaker"
-        desc: "Keynote Speaker"
-      - time: "14:30 - 15:00"
-        item: "Invited Speaker"
-        desc: "Invited Speaker"
-      - time: "15:00 - 16:00"
-        item: "Coffee Break + Poster Session 1"
-        desc: ""
-      - time: "16:00 - 16:30"
-        item: "Invited Speaker"
-        desc: "Invited Speaker"
-      - time: "16:30 - 17:00"
-        item: "Invited Speaker"
-        desc: "Invited Speaker"
-      - time: "18:00"
-        item: "Dinner"
-        desc: ""
-    day2: Tuesday, 00th, October 2021
-    day2list:
-      - time: "09:00 - 10:00"
-        item: "Keynote Speaker"
-        desc: "Keynote Speaker"
-      - time: "10:00 - 10:30"
-        item: "Invited Speaker"
-        desc: "Invited Speaker"
-      - time: "10:30 - 11:00"
-        item: "Coffee Break"
-        desc: "coffee"
-      - time: "11:00 - 11:30"
-        item: ""
-        desc: ""
-      - time: "11:30 - 12:00"
-        item: ""
-        desc: ""
-      - time: "12:00 - 13:30"
-        item: "Lunch"
-        desc: ""
-      - time: "13:30 - 14:00"
-        item: "Sponsor"
-        desc: "sponsor-talk"
-      - time: "14:30 - 15:00"
-        item: "Sponsor2"
-        desc: "sponsor2-talk"
-      - time: "15:00 - 15:30"
-        item: "Coffee Break"
-        desc: ""
-      - time: "15:30 - 16:30"
-        item: "RSG Career Pannel"
-        desc: ""
-      - time: "16:30"
-        item: "Closing remark"
-        desc: ""
+| Time            | Wednesday 2020-10-20                |   | Time            | Thursday 2020-10-21               |
+|-----------------|-------------------------------------|---|-----------------|-----------------------------------|
+| 9 -   9.55      | Registration   and welcome + coffee |   | 9 -   9.45      | 9.   Mikkel Heide Schierup (2)    |
+| 9.55   - 10     | Opening   adress                    |   | 9.45   - 10.15  | 10.   Phil Ewels (1)              |
+| 10   - 10.45    | 1.   Oliver Stegle (3)              |   | 10.15   - 11    | Coffee   break + Poster session 2 |
+| 10.45   - 11.15 | 2.   Sonja Aits (3)                 |   | 11   - 11.30    | 11.   Charlie Cornwallis (2)      |
+| 11.15   - 11.45 | 3.   Aaron Scott (1)                |   | 11.30   - 12    | Sponsor   -                       |
+| 11.45   - 12.15 | 4.   Kristiina Ausmees (2)          |   | 12   - 12.30    | Sponsor   - SAGA                  |
+| 12.15   - 13.15 | Lunch                               |   | 12.30   - 13.30 | Lunch                             |
+| 13.15   - 14    | 5.   Molly Hammell (1)              |   | 13.30   - 14.15 | 12.   Fabian Theis                |
+| 14   - 14.30    | 6.   Alexander Suh (2)              |   | 14.15   - 14.45 | 13.   Carina                      |
+| 14.30   - 15    | 7.   Paul Franks (3)                |   | 14.45   - 15.15 | Sponsor   - NBIS                  |
+| 15 -   16       | Coffee   break + Poster session 1   |   | 15.15   - 15.45 | Coffee   break                    |
+| 16   - 16.30    | 8.   Sophia Zackrisson (3)          |   | 15.45   - 16.45 | RSG   career panel                |
+| 16.30   - 17    | Sponsor   -                         |   | 16.45           | Closing   remarks                 |
+| 18              | Dinner                              |   |                 |                                   |

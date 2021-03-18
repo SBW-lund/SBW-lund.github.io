@@ -4,6 +4,9 @@ nav:
 
   - title: "Keynote"
     section: keynote
+  
+  - title: "Speakers"
+    section: speakers
 
   - title: "Program"
     section: program

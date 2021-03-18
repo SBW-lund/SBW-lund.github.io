@@ -1,7 +1,7 @@
 ---
 name: "Kajsa Brolin"
 role: "PhD student"
-image: "assets/img/team/KB.jpg"
+image: "assets/img/team/KB.jpeg"
 social:
   - url: https://orcid.org/0000-0003-4832-922X
     #fill in ORCID URL. Leave blank if you do not have ORCID.

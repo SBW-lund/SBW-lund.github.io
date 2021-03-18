@@ -1,7 +1,7 @@
 ---
 name: "Sophia Zackrisson"
 role: "Invited speaker"
-title: ""
+title: "Screening for breast cancer - approaches for the future"
 image: "assets/img/speakers/user.jpg"
 social:
   - url: 

@@ -1,7 +1,7 @@
 ---
 name: "Kristiina Ausmees"
 role: "Invited speaker"
-title: ""
+title: "Deep learning for characterization of genotype data"
 image: "assets/img/speakers/ausmees.jpg"
 social:
   - url: 

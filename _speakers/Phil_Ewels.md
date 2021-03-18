@@ -1,7 +1,7 @@
 ---
 name: "Phil Ewels"
 role: "Invited speaker"
-title: ""
+title: "Reproducible bioinformatics workflows with nf-core"
 image: "assets/img/speakers/ewils.jpg"
 social:
   - url: 

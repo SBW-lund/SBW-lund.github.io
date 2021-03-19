@@ -1,7 +1,7 @@
 ---
 name: "Sonja Aits"
 role: "Invited speaker"
-title: ""
+title: "AI for biomedical text and image analysis"
 image: "assets/img/speakers/sonja.jpg"
 social:
   - url:

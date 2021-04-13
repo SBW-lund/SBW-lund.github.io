@@ -1,6 +1,6 @@
 ---
 name: "Kristiina Ausmees"
-role: "Invited speaker"
+role: "PhD Student"
 title: "Deep learning for characterization of genotype data"
 image: "assets/img/speakers/ausmees.jpg"
 social:

@@ -1,6 +1,6 @@
 ---
 name: "Aaron Scott"
-role: "Invited speaker"
+role: "PhD Student"
 title: "Machine learning applications for the analysis of mass spectrometry proteomics data"
 image: "assets/img/speakers/scott.jpg"
 social:

@@ -1,6 +1,6 @@
 ---
 name: "Sophia Zackrisson"
-role: "Invited speaker"
+role: "Professor of Radiology"
 title: "Screening for breast cancer - approaches for the future"
 image: "assets/img/speakers/sophia.jpg"
 social:

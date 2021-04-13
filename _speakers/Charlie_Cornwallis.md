@@ -1,6 +1,6 @@
 ---
 name: "Charlie Cornwallis"
-role: "Invited speaker"
+role: "Senior lecturer"
 title: "Understanding the emergence of biological organisation at different levels of life"
 image: "assets/img/speakers/cornwallis.png"
 social:

@@ -1,6 +1,6 @@
 ---
 name: "Alexander Suh"
-role: "Invited speaker"
+role: "Researcher"
 title: ""
 image: "assets/img/speakers/suh.jpg"
 social:

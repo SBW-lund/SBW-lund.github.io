@@ -1,7 +1,7 @@
 ---
 name: "Paul Franks"
 role: "Invited speaker"
-title: ""
+title: "Combining multidimensional, individual level data to predict person-specific blood glucose responses to meals"
 image: "assets/img/speakers/user.jpg"
 social:
   - url: 

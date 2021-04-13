@@ -1,19 +1,19 @@
 ---
 name: "Phil Ewels"
-role: "Invited speaker"
+role: "National Genomics Infrastructure, Science for Life Laboratory"
 title: "Reproducible bioinformatics workflows with nf-core"
 image: "assets/img/speakers/ewils.jpg"
 social:
-  - url: 
+  - url:
     #fill in ORCID URL. Leave blank if you do not have ORCID.
     icon: ai ai-orcid
-  - url: 
+  - url:
     #fill in twitter URL. Leave blank if you do not have twitter.
     icon: fab fa-twitter
-  - url: 
+  - url:
     #fill in linkedin URL. Leave blank if you do not have linkedin.
     icon: fab fa-linkedin-in
-  - url: 
+  - url: http://phil.ewels.co.uk
     #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
     icon: fas fa-user-circle
 ---

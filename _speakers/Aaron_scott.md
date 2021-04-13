@@ -1,13 +1,13 @@
 ---
 name: "Aaron Scott"
-role: "PhD Student"
+role: "Lund University"
 title: "Machine learning applications for the analysis of mass spectrometry proteomics data"
 image: "assets/img/speakers/scott.jpg"
 social:
-  - url: 
+  - url:
     #fill in ORCID URL. Leave blank if you do not have ORCID.
     icon: ai ai-orcid
-  - url: 
+  - url:
     #fill in twitter URL. Leave blank if you do not have twitter.
     icon: fab fa-twitter
   - url: https://www.linkedin.com/in/aaron-scott-11ba201b5/?originalSubdomain=se

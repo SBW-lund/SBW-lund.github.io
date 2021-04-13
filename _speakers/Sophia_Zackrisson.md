@@ -1,6 +1,6 @@
 ---
 name: "Sophia Zackrisson"
-role: "Professor of Radiology"
+role: "Lund University"
 title: "Screening for breast cancer - approaches for the future"
 image: "assets/img/speakers/sophia.jpg"
 social:

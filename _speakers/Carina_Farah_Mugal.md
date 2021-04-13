@@ -1,19 +1,19 @@
 ---
 name: "Carina Farah Mugal"
-role: "Invited speaker"
+role: "Uppsala University"
 title: ""
 image: "assets/img/speakers/mugal.png"
 social:
-  - url: 
+  - url: https://katalog.uu.se/profile/?id=N8-1504
     #fill in ORCID URL. Leave blank if you do not have ORCID.
     icon: ai ai-orcid
-  - url: 
+  - url:
     #fill in twitter URL. Leave blank if you do not have twitter.
     icon: fab fa-twitter
-  - url: 
+  - url:
     #fill in linkedin URL. Leave blank if you do not have linkedin.
     icon: fab fa-linkedin-in
-  - url: 
+  - url:
     #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
     icon: fas fa-user-circle
 ---

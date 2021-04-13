@@ -4,7 +4,7 @@ role: "Lund University"
 title: "Screening for breast cancer - approaches for the future"
 image: "assets/img/speakers/sophia.jpg"
 social:
-  - url: https://portal.research.lu.se/portal/en/persons/sophia-zackrisson(53170e8b-279b-4e6a-8f63-0212cfb27797).html
+  - url:
     #fill in ORCID URL. Leave blank if you do not have ORCID.
     icon: ai ai-orcid
   - url:
@@ -13,7 +13,7 @@ social:
   - url:
     #fill in linkedin URL. Leave blank if you do not have linkedin.
     icon: fab fa-linkedin-in
-  - url:
+  - url: https://portal.research.lu.se/portal/en/persons/sophia-zackrisson(53170e8b-279b-4e6a-8f63-0212cfb27797).html
     #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
     icon: fas fa-user-circle
 ---

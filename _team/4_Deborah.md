@@ -9,7 +9,7 @@ social:
   - url:
     #fill in twitter URL. Leave blank if you do not have twitter.
     icon: fab fa-twitter
-  - url: www.linkedin.com/in/deborah-f-nacer-de-oliveira
+  - url: https://www.linkedin.com/in/deborah-f-nacer-de-oliveira
     #fill in linkedin URL. Leave blank if you do not have linkedin.
     icon: fab fa-linkedin-in
   - url: https://portal.research.lu.se/portal/en/persons/deborah-figueiredo-nacer-de-oliveira(41db833a-eb0b-48e0-8b1f-0d9f731f9315).html#Overview

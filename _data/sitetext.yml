@@ -25,12 +25,12 @@ keynote:
 
 speakers:
     title: "Invited Speakers"
-    text:
+    text: "Click on the images to see more information:"
     subtext:
     section: speakers
 
 organizers:
-    title: "Organizing Institutes"
+    title: "Organizers"
     section: sponsors
     max-height: 50px
     horizontal-scrolling: "yes" #"yes/no"
@@ -38,9 +38,12 @@ organizers:
       - title: "Lund University"
         url: https://www.lu.se
         logo: assets/img/sponsors/lu.png
+      - title: "RSG-Sweden"
+        url: https://rsg-sweden.iscbsc.org
+        logo: assets/img/sponsors/rsg_sweden.png
 
 sponsors:
-    title: "Sponsoring Institutes"
+    title: "Sponsors"
     section: sponsors
     max-height: 50px
     horizontal-scrolling: "yes" #"yes/no"

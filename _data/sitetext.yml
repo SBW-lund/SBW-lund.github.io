@@ -3,8 +3,8 @@ header:
     text: Swedish Bioinformatics Workshop 2021
     button: Tell Me More
     buttonlink: "#about" # "#{section}" or "URL/page link"
-    button2: Registration will open soon!
-    buttonlink2: "#about" # "#{section}" or "URL/page link"
+    button2: Click Here to Register!
+    buttonlink2: "/register" # "#{section}" or "URL/page link"
 
 about:
     title: "About SBW 2021"
@@ -29,7 +29,18 @@ speakers:
     subtext:
     section: speakers
 
+organizers:
+    title: "Organizing Institutes"
+    section: sponsors
+    max-height: 50px
+    horizontal-scrolling: "yes" #"yes/no"
+    list:
+      - title: "Lund University"
+        url: https://www.lu.se
+        logo: assets/img/sponsors/lu.png
+
 sponsors:
+    title: "Sponsoring Institutes"
     section: sponsors
     max-height: 50px
     horizontal-scrolling: "yes" #"yes/no"
@@ -49,7 +60,6 @@ sponsors:
       - title: "COMPUTE"
         url: http://cbbp.thep.lu.se/compute/index.php
         logo: assets/img/sponsors/compute.png
-
 
 location:
     section: location

@@ -1,6 +1,6 @@
 ---
 name: "Sonja Aits"
-role: "Lund University"
+role: "Associate Senior Lecturer"
 title: "AI for biomedical text and image analysis"
 image: "assets/img/speakers/sonja.jpg"
 social:

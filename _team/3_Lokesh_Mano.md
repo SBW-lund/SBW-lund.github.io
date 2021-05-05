@@ -1,6 +1,6 @@
 ---
 name: "Lokeshwaran Manoharan"
-role: "Bioinformatics expert (NBIS)"
+role: "Bioinformatics expert, NBIS"
 image: "assets/img/team/lokesh_mano.jpg"
 social:
   #- url: https://orcid.org/0000-0001-9751-5745

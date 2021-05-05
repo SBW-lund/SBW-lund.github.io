@@ -1,6 +1,6 @@
 ---
 name: "Nikolay Oskolkov"
-role: "Bioinformatician at NBIS / SciifeLab"
+role: "Bioinformatics expert, NBIS and ScilifeLab"
 image: "assets/img/team/oskolkov.jpg"
 social:
   #- url: https://orcid.org/0000-0001-5326-8893

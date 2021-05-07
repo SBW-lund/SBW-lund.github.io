@@ -50,10 +50,10 @@ sponsors:
     list:
       - title: "NBIS"
         url: https://nbis.se
-        logo: assets/img/sponsors/nbis.svg
+        logo: assets/img/sponsors/nbis.png
       - title: "GENECO"
         url: https://www.biology.lu.se/education/phd-studies/geneco-graduate-research-school-genomic-ecology/about-geneco
-        logo: assets/img/sponsors/lu.png
+        logo: assets/img/sponsors/geneco.jpeg
       - title: "AI Lund"
         url: http://ai.lu.se/
         logo: assets/img/sponsors/lu.png
@@ -63,6 +63,9 @@ sponsors:
       - title: "COMPUTE"
         url: http://cbbp.thep.lu.se/compute/index.php
         logo: assets/img/sponsors/compute.png
+      - title: "LUBI"
+        url: https://www.lubi.lu.se
+        logo: assets/img/sponsors/lubilogo.png
 
 location:
     section: location

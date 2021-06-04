@@ -4,7 +4,7 @@
   <h3>{{ site.data.sitetext.organizers.title | default: 'Organizers' }}</h3>  
     <div class='row' {% if site.data.sitetext.organizers.horizontal-scrolling == 'yes' %} id="scrolling-organizers" {% endif %}>
   {% for organizer in site.data.sitetext.organizers.list %}
-      <div class="col-md-3 col-sm-6">
+      <div class="col-md-3 col-sm-6" style="margin-top: 50px;">
         <a href="{{ organizer.url }}">
           <img class="img-fluid d-block mx-auto" src="{{ organizer.logo }}" alt="{{ organizer.title }}" style="max-height: {{ site.data.sitetext.organizer.max-height | default: "100px" }}">
         </a>
@@ -20,7 +20,7 @@
       <h3>{{ site.data.sitetext.sponsors.title | default: 'Sponsors' }}</h3> 
       <div class="row" {% if site.data.sitetext.sponsors.horizontal-scrolling == "yes" %} id="scrolling-sponsors" {% endif %}>
 	  {% for sponsor in site.data.sitetext.sponsors.list %}
-        <div class="col-md-3 col-sm-6">
+        <div class="col-md-3 col-sm-6" style="margin-top: 50px;">
           <a href="{{ sponsor.url }}">
             <img class="img-fluid d-block mx-auto" src="{{ sponsor.logo }}" alt="{{ sponsor.title }}" style="max-height: {{ site.data.sitetext.sponsors.max-height | default: "100px" }}">
           </a>

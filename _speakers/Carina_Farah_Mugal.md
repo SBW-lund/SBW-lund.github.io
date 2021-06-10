@@ -1,7 +1,7 @@
 ---
 name: "Carina Farah Mugal"
 role: "Uppsala University"
-title: ""
+title: "Integration of population genomic and phylogenomic analysis - theory and applications"
 image: "assets/img/speakers/mugal.png"
 social:
   - url:

@@ -1,7 +1,7 @@
 ---
 name: "Alexander Suh"
 role: "Uppsala University"
-title: ""
+title: "Genomics of germline/soma genome differences"
 image: "assets/img/speakers/suh.jpg"
 social:
   - url:

@@ -5,6 +5,9 @@ header:
     buttonlink: "#about" # "#{section}" or "URL/page link"
     button2: Click Here to Register!
     buttonlink2: "/register" # "#{section}" or "URL/page link"
+    button3: Submit Your Abstract Now!
+    buttonlink3: "/abstract-submission"
+
 
 about:
     title: "About SBW 2021"

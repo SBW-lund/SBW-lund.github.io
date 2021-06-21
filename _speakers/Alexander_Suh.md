@@ -1,6 +1,6 @@
 ---
 name: "Alexander Suh"
-role: "Uppsala University"
+role: "Uppsala University, University of East Anglia"
 title: "Genomics of germline/soma genome differences"
 image: "assets/img/speakers/suh.jpg"
 social:
@@ -17,3 +17,5 @@ social:
     #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
     icon: fas fa-user-circle
 ---
+
+Alex is a lecturer at the University of East Anglia (UK) and group leader at Uppsala University. His research group focuses on understanding evolution of animal genomes from the perspective of transposable elements, endogenous viruses, and germline-restricted chromosomes.

@@ -1,7 +1,7 @@
 ---
 name: "Atte Räsänen"
 role: "Master's student"
-image: "assets/img/members/atte.jpg"
+image: "assets/img/team/atte.jpg"
 social:
   - url:
     #fill in ORCID URL. Leave blank if you do not have ORCID.

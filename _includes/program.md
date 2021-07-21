@@ -24,7 +24,7 @@
 |---------------------------------------------------------|
 | *Time*          | *Session*                             
 |-----------------|---------------------------------------|
-|  9.00 -  9.45   | <a data-toggle="modal" href="#p2">K3.   Fabian Theis                    |
+|  9.00 -  9.45   | <a data-toggle="modal" href="#p2">K3.   Fabian Theis (remote talk)   |
 |  9.45 - 10.15   | <a data-toggle="modal" href="#s7">I5.   Paul Franks</a> |
 | 10.15 - 10.30   | Short break                           |
 | 10.30 - 11.00   | <a data-toggle="modal" href="#s4">I6.   Charlie Cornwallis</a> |

@@ -5,7 +5,7 @@
 | 9.00  -  9.55   | Welcome coffee                        |
 | 9.55  - 10.00   | Opening address                       |
 | 10.00 - 10.45   | <a data-toggle="modal" href="#p4">K1.   Oliver Stegle (remote talk)</a>|
-| 10.45 - 11.15   | <a data-toggle="modal" href="#s10">I1.   Sonja Aits</a>|
+| 10.45 - 11.15   | <a data-toggle="modal" href="#s11">I1.   Sonja Aits</a>|
 | 11.15 - 11.30   | Short break                           |
 | 11.30 - 12.00   | <a data-toggle="modal" href="#s1">I2.   Aaron Scott                |
 | 12.00 - 12.30   | Christian Brueffer (SAGA Diagnostics) |
@@ -14,7 +14,7 @@
 | 14.30 - 15.15   | <a data-toggle="modal" href="#p1">K2.   Molly Hammell</a> |
 | 15.15 - 15.45   | <a data-toggle="modal" href="#s2">I3.   Alexander Suh</a> |
 | 15.45 - 16.00   | Coffee break                          |
-| 16.00 - 16.30   | <a data-toggle="modal" href="#s11">I4.   Sophia Zackrisson</a> |
+| 16.00 - 16.30   | <a data-toggle="modal" href="#s12">I4.   Sophia Zackrisson</a> |
 | 16.30 - 17.00   | Sponsor talk (AILund)                 |
 | 17.00 - 20.00   | Social event                          |
 {:.custom-table}
@@ -25,7 +25,7 @@
 | *Time*          | *Session*                             
 |-----------------|---------------------------------------|
 |  9.00 -  9.45   | <a data-toggle="modal" href="#p2">K3.   Fabian Theis (remote talk)   |
-|  9.45 - 10.15   | <a data-toggle="modal" href="#s8">I5.   Paul Franks</a> |
+|  9.45 - 10.15   | <a data-toggle="modal" href="#s9">I5.   Paul Franks</a> |
 | 10.15 - 10.30   | Short break                           |
 | 10.30 - 11.00   | <a data-toggle="modal" href="#s4">I6.   Charlie Cornwallis</a> |
 | 11.00 - 11.30   | <a data-toggle="modal" href="#s3">I7.   Carina Mugal</a> |
@@ -33,9 +33,9 @@
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | Career panel (RSG-Sweden)             |
 | 14.30 - 15.15   | <a data-toggle="modal" href="#p3">K4.   Marina Panova                |
-| 15.15 - 15.45   | <a data-toggle="modal" href="#s9">I8. Phil Ewels </a>|
+| 15.15 - 15.45   | <a data-toggle="modal" href="#s10">I8. Phil Ewels </a>|
 | 15.45 - 16.00   | Coffee break                          |
-| 16.00 - 16.30   | <a data-toggle="modal" href="#s5">I9.   Kristiina Ausmees</a> |
+| 16.00 - 16.30   | <a data-toggle="modal" href="#s6">I9.   Kristiina Ausmees</a> |
 | 16.30 - 17.00   | Sponsor talk                          |
 | 17.00           | Closing remarks                       |
 {:.custom-table}

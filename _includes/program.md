@@ -15,7 +15,7 @@
 | 15.15 - 15.45   | <a data-toggle="modal" href="#s2" class="plink">I3.   Alexander Suh</a> |
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#s13" class="plink">I4.   Sophia Zackrisson</a> |
-| 16.30 - 17.00   | Sponsor talk (AILund)                 |
+| 16.30 - 17.00   | Sponsor talk (AILund & LUBI)                 |
 | 17.00 - 20.00   | Social event                          |
 {:.custom-table}
 
@@ -36,6 +36,6 @@
 | 15.15 - 15.45   | <a data-toggle="modal" href="#s11" class="plink">I8. Phil Ewels </a>|
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#s7" class="plink">I9.   Kristiina Ausmees</a> |
-| 16.30 - 17.00   | Sponsor talk                          |
+| 16.30 - 17.00   | Sponsor talk (NBIS)                         |
 | 17.00           | Closing remarks                       |
 {:.custom-table}

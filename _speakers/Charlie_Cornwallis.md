@@ -17,3 +17,5 @@ social:
     #fill in LU research portal link: You must have one of these. Otherwise, leave blank.
     icon: fas fa-user-circle
 ---
+
+Charlie is an Associate Professor in Evolutionary Biology at Lund University. His group focuses on understanding the evolution of complex life. Throughout the history of earth, the complexity of life has changed through a series of major evolutionary transitions. For example, transitions to multicellularity, the formation of animal societies, and the establishment of obligate symbiotic relationships have all played fundamental roles in the development of life. His research group aims to understand how and why some organisms undergo transitions in complexity while others do not, and what the consequences are for patterns of biodiversity.

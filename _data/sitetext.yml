@@ -76,10 +76,10 @@ sponsors:
         url: https://www.medicine.lu.se/faculty-medicine-lund-university/departments/department-laboratory-medicine
         logo: assets/img/sponsors/labmed.png
 
-location:
-    section: location
+venue:
+    section: venue
     title: "Venue"
-    text: "The SBW 2021 will be held at XXX"
+    text: "The SBW 2021 will be a hybrid meeting. The in person location will be at the E-huset at LTH"
 
 
 team:

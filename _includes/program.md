@@ -33,7 +33,7 @@
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | Career panel (RSG-Sweden)             |
 | 14.30 - 15.15   | <a data-toggle="modal" href="#p1" class="plink">K4.   Molly Hammell</a> |
-| 15.15 - 15.45   | <a data-toggle="modal" href="#s11" class="plink">I8. Phil Ewels </a>|
+| 15.15 - 15.45   | <a data-toggle="modal" href="#s11" class="plink">I8. Phil Ewels (remote talk)</a>|
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#s7" class="plink">I9.   Kristiina Ausmees</a> |
 | 16.30 - 17.00   | Sponsor talk (NBIS)                         |

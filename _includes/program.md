@@ -11,7 +11,7 @@
 | 12.00 - 12.30   | Christian Brueffer (SAGA Diagnostics) |
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | First poster session                  |
-| 14.30 - 15.15   | <a data-toggle="modal" href="#p3" class="plink">K2.   Marina Panova |
+| 14.30 - 15.15   | <a data-toggle="modal" href="#p3" class="plink">K2.   Marina Panova (remote talk) |
 | 15.15 - 15.45   | <a data-toggle="modal" href="#s2" class="plink">I3.   Alexander Suh</a> |
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#s13" class="plink">I4.   Sophia Zackrisson</a> |

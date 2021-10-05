@@ -8,7 +8,7 @@
 | 10.45 - 11.15   | <a data-toggle="modal" href="#s12" class="plink">I1.   Sonja Aits</a>|
 | 11.15 - 11.30   | Short break                           |
 | 11.30 - 12.00   | <a data-toggle="modal" href="#s1" class="plink">I2.   Aaron Scott                |
-| 12.00 - 12.30   | Christian Brueffer (SAGA Diagnostics) |
+| 12.00 - 12.30   | <a data-toggle="modal" href="#s5" class="plink">S1.   Christian Brueffer (SAGA Diagnostics) |
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | Poster session A                 |
 | 14.30 - 15.15   | <a data-toggle="modal" href="#p3" class="plink">K2.   Marina Panova (remote talk) </a> |
@@ -36,6 +36,6 @@
 | 15.15 - 15.45   | <a data-toggle="modal" href="#s11" class="plink">I8. Phil Ewels (remote talk)</a>|
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#s7" class="plink">I9.   Kristiina Ausmees</a> |
-| 16.30 - 17.00   | Mihail Anton (NBIS) (remote talk)                         |
+| 16.30 - 17.00   | <a data-toggle="modal" href="#s15" class="plink">S3.   Mihail Anton (NBIS) (remote talk)                         |
 | 17.00           | Closing remarks                       |
 {:.custom-table}

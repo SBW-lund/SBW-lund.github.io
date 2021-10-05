@@ -11,7 +11,7 @@
   {% for person in site.speakers %}
 	<div class="col-sm-2">
 	  <div class="team-member">
-		<a class="portfolio-link" data-toggle="modal" href="#s{{ forloop.index }}">
+		<a class="portfolio-link" data-toggle="modal" href="#{{ person.name | downcase | replace: ' ', '-' }}">
 			<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 		  </a>
 		<h4>{{ person.name }}</h4>

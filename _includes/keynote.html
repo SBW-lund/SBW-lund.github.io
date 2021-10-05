@@ -11,7 +11,7 @@
     {% for person in site.keynote %}
     <div class="col-sm-4">
       <div class="keynote-speaker">
-      <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
+      <a class="portfolio-link" data-toggle="modal" href="#{{ person.name | downcase | replace: ' ', '-' }}">
         <img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
       </a>
       <h4>{{ person.name }}</h4>

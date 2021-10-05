@@ -1,6 +1,6 @@
 <!-- Keynote Modals -->
 {% for speaker in site.keynote %}
-  <div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="portfolio-modal modal fade" id="{{ speaker.name | downcase | replace: ' ', '-' }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">

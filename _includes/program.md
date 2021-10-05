@@ -4,17 +4,17 @@
 |-----------------|---------------------------------------|
 | 9.00  -  9.55   | Welcome coffee                        |
 | 9.50  - 10.00   | Opening address                       |
-| 10.00 - 10.45   | <a data-toggle="modal" href="#p4" class="plink">K1.   Oliver Stegle (remote talk)</a>|
-| 10.45 - 11.15   | <a data-toggle="modal" href="#s12" class="plink">I1.   Sonja Aits</a>|
+| 10.00 - 10.45   | <a data-toggle="modal" href="#oliver-stegle" class="plink">K1.   Oliver Stegle (remote talk)</a>|
+| 10.45 - 11.15   | <a data-toggle="modal" href="#sonja-aits" class="plink">I1.   Sonja Aits</a>|
 | 11.15 - 11.30   | Short break                           |
-| 11.30 - 12.00   | <a data-toggle="modal" href="#s1" class="plink">I2.   Aaron Scott                |
-| 12.00 - 12.30   | <a data-toggle="modal" href="#s5" class="plink">S1.   Christian Brueffer (SAGA Diagnostics) |
+| 11.30 - 12.00   | <a data-toggle="modal" href="#aaron-scott" class="plink">I2.   Aaron Scott                |
+| 12.00 - 12.30   | <a data-toggle="modal" href="#christian-brueffer" class="plink">S1.   Christian Brueffer (SAGA Diagnostics) |
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | Poster session A                 |
-| 14.30 - 15.15   | <a data-toggle="modal" href="#p3" class="plink">K2.   Marina Panova (remote talk) </a> |
-| 15.15 - 15.45   | <a data-toggle="modal" href="#s2" class="plink">I3.   Alexander Suh (remote talk) </a> |
+| 14.30 - 15.15   | <a data-toggle="modal" href="#marina-panova" class="plink">K2.   Marina Panova (remote talk) </a> |
+| 15.15 - 15.45   | <a data-toggle="modal" href="#alexander-suh" class="plink">I3.   Alexander Suh (remote talk) </a> |
 | 15.45 - 16.00   | Coffee break                          |
-| 16.00 - 16.30   | <a data-toggle="modal" href="#s13" class="plink">I4.   Sophia Zackrisson</a> |
+| 16.00 - 16.30   | <a data-toggle="modal" href="#sophia-zackrisson" class="plink">I4.   Sophia Zackrisson</a> |
 | 16.30 - 17.00   | S2.   Sponsor talk (AILund & LUBI)                 |
 | 17.00 - 20.00   | Social event                          |
 {:.custom-table}
@@ -24,18 +24,18 @@
 |---------------------------------------------------------|
 | *Time*          | *Session*                             
 |-----------------|---------------------------------------|
-|  9.00 -  9.45   | <a data-toggle="modal" href="#p2" class="plink">K3.   Fabian Theis (remote talk)   |
-|  9.45 - 10.15   | <a data-toggle="modal" href="#s10" class="plink">I5.   Paul Franks</a> |
+|  9.00 -  9.45   | <a data-toggle="modal" href="#fabian-theis" class="plink">K3.   Fabian Theis (remote talk)   |
+|  9.45 - 10.15   | <a data-toggle="modal" href="#paul-franks" class="plink">I5.   Paul Franks</a> |
 | 10.15 - 10.30   | Short break                           |
-| 10.30 - 11.00   | <a data-toggle="modal" href="#s4" class="plink">I6.   Charlie Cornwallis</a> |
-| 11.00 - 11.30   | <a data-toggle="modal" href="#s3" class="plink">I7.   Carina Mugal</a> |
+| 10.30 - 11.00   | <a data-toggle="modal" href="#charlie-cornwallis" class="plink">I6.   Charlie Cornwallis</a> |
+| 11.00 - 11.30   | <a data-toggle="modal" href="#carina-farah-mugal" class="plink">I7.   Carina Farah Mugal</a> |
 | 11.30 - 12.30   | Poster session B                |
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | Career panel (RSG-Sweden)             |
-| 14.30 - 15.15   | <a data-toggle="modal" href="#p1" class="plink">K4.   Molly Hammell  (remote talk) </a> |
-| 15.15 - 15.45   | <a data-toggle="modal" href="#s11" class="plink">I8. Phil Ewels (remote talk)</a>|
+| 14.30 - 15.15   | <a data-toggle="modal" href="#molly-hammell" class="plink">K4.   Molly Hammell  (remote talk) </a> |
+| 15.15 - 15.45   | <a data-toggle="modal" href="#phil-ewels" class="plink">I8. Phil Ewels (remote talk)</a>|
 | 15.45 - 16.00   | Coffee break                          |
-| 16.00 - 16.30   | <a data-toggle="modal" href="#s7" class="plink">I9.   Kristiina Ausmees</a> |
-| 16.30 - 17.00   | <a data-toggle="modal" href="#s15" class="plink">S3.   Mihail Anton (NBIS) (remote talk)                         |
+| 16.00 - 16.30   | <a data-toggle="modal" href="#kristiina-ausmees" class="plink">I9.   Kristiina Ausmees</a> |
+| 16.30 - 17.00   | <a data-toggle="modal" href="#mihail-anton" class="plink">S3.   Mihail Anton (NBIS) (remote talk)                         |
 | 17.00           | Closing remarks                       |
 {:.custom-table}

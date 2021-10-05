@@ -15,7 +15,7 @@
 | 15.15 - 15.45   | <a data-toggle="modal" href="#s2" class="plink">I3.   Alexander Suh (remote talk) </a> |
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#s13" class="plink">I4.   Sophia Zackrisson</a> |
-| 16.30 - 17.00   | Sponsor talk (AILund & LUBI)                 |
+| 16.30 - 17.00   | S2.   Sponsor talk (AILund & LUBI)                 |
 | 17.00 - 20.00   | Social event                          |
 {:.custom-table}
 

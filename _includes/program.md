@@ -11,8 +11,8 @@
 | 12.00 - 12.30   | Christian Brueffer (SAGA Diagnostics) |
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | Poster session A                 |
-| 14.30 - 15.15   | <a data-toggle="modal" href="#p3" class="plink">K2.   Marina Panova (remote talk) |
-| 15.15 - 15.45   | <a data-toggle="modal" href="#s2" class="plink">I3.   Alexander Suh</a> |
+| 14.30 - 15.15   | <a data-toggle="modal" href="#p3" class="plink">K2.   Marina Panova (remote talk) </a> |
+| 15.15 - 15.45   | <a data-toggle="modal" href="#s2" class="plink">I3.   Alexander Suh (remote talk) </a> |
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#s13" class="plink">I4.   Sophia Zackrisson</a> |
 | 16.30 - 17.00   | Sponsor talk (AILund & LUBI)                 |
@@ -32,7 +32,7 @@
 | 11.30 - 12.30   | Poster session B                |
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | Career panel (RSG-Sweden)             |
-| 14.30 - 15.15   | <a data-toggle="modal" href="#p1" class="plink">K4.   Molly Hammell</a> |
+| 14.30 - 15.15   | <a data-toggle="modal" href="#p1" class="plink">K4.   Molly Hammell  (remote talk) </a> |
 | 15.15 - 15.45   | <a data-toggle="modal" href="#s11" class="plink">I8. Phil Ewels (remote talk)</a>|
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#s7" class="plink">I9.   Kristiina Ausmees</a> |

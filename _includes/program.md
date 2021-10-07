@@ -2,7 +2,7 @@
 |---------------------------------------------------------|
 | *Time*          | *Session*                             |
 |-----------------|---------------------------------------|
-| 9.00  -  9.55   | Welcome coffee                        |
+| 9.00  -  9.50   | Welcome coffee                        |
 | 9.50  - 10.00   | Opening address                       |
 | 10.00 - 10.45   | <a data-toggle="modal" href="#oliver-stegle" class="plink">K1.   Oliver Stegle (remote talk)</a>|
 | 10.45 - 11.15   | <a data-toggle="modal" href="#sonja-aits" class="plink">I1.   Sonja Aits</a>|

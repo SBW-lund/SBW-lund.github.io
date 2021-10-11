@@ -28,7 +28,7 @@
 |  9.45 - 10.15   | <a data-toggle="modal" href="#paul-franks" class="plink">I5.   Paul Franks</a> |
 | 10.15 - 10.30   | Short break                           |
 | 10.30 - 11.00   | <a data-toggle="modal" href="#charlie-cornwallis" class="plink">I6.   Charlie Cornwallis</a> |
-| 11.00 - 11.30   | <a data-toggle="modal" href="#carina-farah-mugal" class="plink">I7.   Carina Farah Mugal</a> |
+| 11.00 - 11.30   | <a data-toggle="modal" href="#carina-farah-mugal" class="plink">I7.   Carina Farah Mugal (remote talk) </a> |
 | 11.30 - 12.30   | Poster session B                |
 | 12.30 - 13.30   | Lunch                                 |
 | 13.30 - 14.30   | Career panel (RSG-Sweden)             |

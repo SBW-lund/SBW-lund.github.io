@@ -1,0 +1,76 @@
+<!-- Keynote Modals -->
+<div class="portfolio-modal modal fade" id="postersa" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="row">
+			<div class="modal-body">
+			
+			<p>Please click on the title of each poster to post questions for the presenters on the slack channel.</p>
+			<p>All attendees will receive slack join link before the workshop data; make sure to join the slack workshop before you can leave posts</p>
+
+            {% for poster in site.data.posters %}
+            {% if poster.group =="A" %}
+            
+				<div>
+					<div class="strike">
+						<span class="text-uppercase"> Poster {{ poster.posterid }} </span>
+					</div>	
+                <p  style="padding: 0; margin: 0; font-size: larger;"><a class="plink" href="{{ poster.link }}">{{ poster.title }}</a></p>
+				<p class="text-uppercase">{{ poster.presenter }}</p>
+				
+				</div> 
+			{% endif %}
+			{% endfor %}
+		<button class="btn btn-primary" data-dismiss="modal" type="button">
+			<i class="fas fa-times"></i>
+			 Close Posters</button>
+		</div>	  
+        </div>
+        </div>
+	</div>
+	</div>
+</div>
+<!-- same code for group B -->
+<div class="portfolio-modal modal fade" id="postersb" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+      <div class="modal-content">
+
+ 
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="row">
+			<div class="modal-body">
+            {% for poster in site.data.posters %}
+			{% if poster.group =="B" %}
+                
+			<div>
+				<div class="strike">
+					<span class="text-uppercase"> Poster {{ poster.posterid }} </span>
+				</div>	
+			<p  style="padding: 0; margin: 0; font-size: larger;"><a class="plink" href="{{ poster.link }}">{{ poster.title }}</a></p>
+			<p class="text-uppercase">{{ poster.presenter }}</p>
+			
+			</div> 
+				{% endif %}
+		{% endfor %}
+		<button class="btn btn-primary" data-dismiss="modal" type="button">
+			<i class="fas fa-times"></i>
+			 Close Posters</button>
+		</div>	  
+        </div>
+        </div>
+	</div>
+	</div>
+</div>

@@ -1,23 +1,23 @@
-group,posterid,presenter,title,link
-A,A-1,Camila Consiglio,Deciphering the roles of sex hormones in the human immune system,https://sbw2021-workspace.slack.com/archives/C02FSV9BHPF
-A,A-2,Max J Karlsson,Genome-wide annotation of protein-coding genes in pig,https://sbw2021-workspace.slack.com/archives/C02G8JGPP97
-B,B-2,Rafsan Ahmed,A deep learning pipeline for COVID19-related information extraction from scientific literature,https://sbw2021-workspace.slack.com/archives/C02FSVCLCER
-A,A-3,Johanna Tingvall-Gustafsson,LIANA: A tool for peak annotation based on long-range chromatin interactions,https://sbw2021-workspace.slack.com/archives/C02FY59UD1S
-B,B-4,Luc Thomés,Development and application of glycowork - a Python package for glycan data science and machine learni,https://sbw2021-workspace.slack.com/archives/C02FW095X0B
-A,A-4,Salma Kazemi Rashed,Deep learning for scoring lung damage on histology images,https://sbw2021-workspace.slack.com/archives/C02GAMJ1G1M
-A,A-5,Daniel Varela,A memetic algorithm enables global all-atom protein-protein docking with sidechain flexibility,https://sbw2021-workspace.slack.com/archives/C02GNCRB4CD
-A,A-6,Hyobin Kim,Exploring neighboring cell dependent gene expression using spatial transcriptomics,https://sbw2021-workspace.slack.com/archives/C02GNCT8V8D
-A,A-7,Guangzheng Weng,VeTra: a tool for trajectory inference based on RNA velocity,https://sbw2021-workspace.slack.com/archives/C02GRD4P8UB
-A,A-8,Hanna Dort,Genome-wide gene birth-death dynamics are associated with diet breadth variation in Lepidoptera,https://sbw2021-workspace.slack.com/archives/C02GJLC3SH4
-A,A-9,Richel Bilderbeek,plinkr: interface PLINK and PLINK2 from R,https://sbw2021-workspace.slack.com/archives/C02H4150D89
-B,B-3,Johanna Hörberg,Homo- and heterodimers bHLH transcription factors induce different deformation of supercoiled DNA: a potential transcriptional regulation mechanism,https://sbw2021-workspace.slack.com/archives/C02H4150D89
-B,B-5,Karl Johan Westrin,Cluster guided de novo isoform assembly,https://sbw2021-workspace.slack.com/archives/C02FF8K3QPR
-A,A-10,Patrick C.N. Martin,Vesalius: Tissue anatomy from spatial transcriptomic data,https://sbw2021-workspace.slack.com/archives/C02FW05GJRY
-A,A-11,Alexandra Petersson,Copy number evolution in resected pancreatic cancer: who survives?,https://sbw2021-workspace.slack.com/archives/C02GJLQ96TY
-B,B-6,Manonanthini Thangam,Machine-learning based proteomic profiling for the discrimination of novel diabetic subtypes,https://sbw2021-workspace.slack.com/archives/C02GRDRU667
-B,B-1,Juliane Albrecht,Exploration of mRNA isoforms among exons and splice junctions in the estrogen receptor alpha (ESR1),https://sbw2021-workspace.slack.com/archives/C02GNDJFNP7
-B,B-7,Yajuan Huang,Host plant driven genomic differentiation during the early stages of population divergence in the peacock fly Tephritis conura,https://sbw2021-workspace.slack.com/archives/C02GRDWNGCB
-B,B-8,Wen Zhong,Next generation plasma proteome profiling to monitor health and disease,https://sbw2021-workspace.slack.com/archives/C02H41VRTH7
-B,B-9,Linbu Liao,SILE: a deep learning-based tool for spatial inference and local environment dependent gene expression identification,https://sbw2021-workspace.slack.com/archives/C02GJM71Q1L
-B,B-10,Siddhant Sharma,In-silico characterization of prion-like domains in human protein families,https://sbw2021-workspace.slack.com/archives/C02GJLSSANA
-B,B-11,Olga Krali,Gene expression classification reveals subtype-specific gene signatures and predicts unknown sample subtypes in pediatric ALL patients.,https://sbw2021-workspace.slack.com/archives/C02GNERQKDK
+group,id,posterid,presenter,title,link
+A,1,A-1,Camila Consiglio,Deciphering the roles of sex hormones in the human immune system,https://sbw2021-workspace.slack.com/archives/C02FSV9BHPF
+A,2,A-2,Max J Karlsson,Genome-wide annotation of protein-coding genes in pig,https://sbw2021-workspace.slack.com/archives/C02G8JGPP97
+A,3,A-3,Johanna Tingvall-Gustafsson,LIANA: A tool for peak annotation based on long-range chromatin interactions,https://sbw2021-workspace.slack.com/archives/C02FY59UD1S
+A,4,A-4,Salma Kazemi Rashed,Deep learning for scoring lung damage on histology images,https://sbw2021-workspace.slack.com/archives/C02GAMJ1G1M
+A,5,A-5,Daniel Varela,A memetic algorithm enables global all-atom protein-protein docking with sidechain flexibility,https://sbw2021-workspace.slack.com/archives/C02GNCRB4CD
+A,6,A-6,Hyobin Kim,Exploring neighboring cell dependent gene expression using spatial transcriptomics,https://sbw2021-workspace.slack.com/archives/C02GNCT8V8D
+A,7,A-7,Guangzheng Weng,VeTra: a tool for trajectory inference based on RNA velocity,https://sbw2021-workspace.slack.com/archives/C02GRD4P8UB
+A,8,A-8,Hanna Dort,Genome-wide gene birth-death dynamics are associated with diet breadth variation in Lepidoptera,https://sbw2021-workspace.slack.com/archives/C02GJLC3SH4
+A,9,A-9,Richel Bilderbeek,plinkr: interface PLINK and PLINK2 from R,https://sbw2021-workspace.slack.com/archives/C02H4150D89
+A,10,A-10,Patrick C.N. Martin,Vesalius: Tissue anatomy from spatial transcriptomic data,https://sbw2021-workspace.slack.com/archives/C02FW05GJRY
+A,11,A-11,Alexandra Petersson,Copy number evolution in resected pancreatic cancer: who survives?,https://sbw2021-workspace.slack.com/archives/C02GJLQ96TY
+B,1,B-1,Juliane Albrecht,Exploration of mRNA isoforms among exons and splice junctions in the estrogen receptor alpha (ESR1),https://sbw2021-workspace.slack.com/archives/C02GNDJFNP7
+B,2,B-2,Rafsan Ahmed,A deep learning pipeline for COVID19-related information extraction from scientific literature,https://sbw2021-workspace.slack.com/archives/C02FSVCLCER
+B,3,B-3,Johanna Hörberg,Homo- and heterodimers bHLH transcription factors induce different deformation of supercoiled DNA: a potential transcriptional regulation mechanism,https://sbw2021-workspace.slack.com/archives/C02H4150D89
+B,4,B-4,Luc Thomés,Development and application of glycowork - a Python package for glycan data science and machine learni,https://sbw2021-workspace.slack.com/archives/C02FW095X0B
+B,5,B-5,Karl Johan Westrin,Cluster guided de novo isoform assembly,https://sbw2021-workspace.slack.com/archives/C02FF8K3QPR
+B,6,B-6,Manonanthini Thangam,Machine-learning based proteomic profiling for the discrimination of novel diabetic subtypes,https://sbw2021-workspace.slack.com/archives/C02GRDRU667
+B,7,B-7,Yajuan Huang,Host plant driven genomic differentiation during the early stages of population divergence in the peacock fly Tephritis conura,https://sbw2021-workspace.slack.com/archives/C02GRDWNGCB
+B,8,B-8,Wen Zhong,Next generation plasma proteome profiling to monitor health and disease,https://sbw2021-workspace.slack.com/archives/C02H41VRTH7
+B,9,B-9,Linbu Liao,SILE: a deep learning-based tool for spatial inference and local environment dependent gene expression identification,https://sbw2021-workspace.slack.com/archives/C02GJM71Q1L
+B,10,B-10,Siddhant Sharma,In-silico characterization of prion-like domains in human protein families,https://sbw2021-workspace.slack.com/archives/C02GJLSSANA
+B,11,B-11,Olga Krali,Gene expression classification reveals subtype-specific gene signatures and predicts unknown sample subtypes in pediatric ALL patients.,https://sbw2021-workspace.slack.com/archives/C02GNERQKDK

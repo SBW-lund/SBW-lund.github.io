@@ -15,7 +15,7 @@
 | 15.15 - 15.45   | <a data-toggle="modal" href="#alexander-suh" class="plink">I3.   Alexander Suh (remote talk) </a> |
 | 15.45 - 16.00   | Coffee break                          |
 | 16.00 - 16.30   | <a data-toggle="modal" href="#sophia-zackrisson" class="plink">I4.   Sophia Zackrisson</a> |
-| 16.30 - 17.00   | S2.   Stefan Larsson (AILund) & Karin Engström (LUBI)                 |
+| 16.30 - 17.00   | S2.   Stefan Larsson (AILund) & <a data-toggle="modal" href="#karin-engström" class="plink">Karin Engström (LUBI)</a>                 |
 | 17.00 - 20.00   | Social event                          |
 {:.custom-table}
 

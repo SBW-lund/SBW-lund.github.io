@@ -4,7 +4,7 @@ role: "NBIS"
 title: "Sponsor talk"
 image: "assets/img/speakers/mihail-anton.jpg"
 social:
-  - url: https://orcid.org/0000-0002-7753-9042
+  - url: 
     #fill in ORCID URL. Leave blank if you do not have ORCID.
     icon: ai ai-orcid
   - url:
